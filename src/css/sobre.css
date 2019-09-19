@@ -1,0 +1,13 @@
+#sobre {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#sobre p span {
+    color: lime;
+    font-weight: bold;
+}
