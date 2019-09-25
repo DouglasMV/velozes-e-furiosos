@@ -1,0 +1,11 @@
+#item1 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjEzOTEzMTQ0Nl5BMl5BanBnXkFtZTgwOTgzMDAxMjI@._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+#item2 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTQ3Nzg4NDgyOF5BMl5BanBnXkFtZTYwODk4NTU3._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 1;
+}
