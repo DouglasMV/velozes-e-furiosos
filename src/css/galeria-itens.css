@@ -6,6 +6,60 @@
 
 #item2 {
     background-image: url("https://m.media-amazon.com/images/M/MV5BMTQ3Nzg4NDgyOF5BMl5BanBnXkFtZTYwODk4NTU3._V1_.jpg");
-    grid-row: span 2;
+    grid-row: span 3;
     grid-column: span 1;
 }
+
+#item3 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTU1OTE1MjU1MV5BMl5BanBnXkFtZTYwNzA5NTU3._V1_.jpg");
+    grid-row: span 3;
+    grid-column: span 1;
+}
+
+#item4 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjEzMDQ5NjQyNF5BMl5BanBnXkFtZTYwMDE5NTU3._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+#item5 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTM5NDY0ODU5NV5BMl5BanBnXkFtZTYwMzE5NTU3._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item6 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTk0NTA2NjYyMl5BMl5BanBnXkFtZTYwNjE5NTU3._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item7 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTc2OTQ5OTg5MF5BMl5BanBnXkFtZTYwMDI5NTU3._V1_.jpg");
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+#item8 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjAyODkwNTIyOV5BMl5BanBnXkFtZTYwMzI5NTU3._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 3;
+}
+
+#item9 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTU1NjU2Mzg3Nl5BMl5BanBnXkFtZTYwNjM5NTU3._V1_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item10 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZTFkZDMxYzctNmMyYy00MTU0LThmYzktMzA1NjMzNThjZGZjXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_SX1777_CR0,0,1777,755_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+#item11 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNzhkN2MzODUtMjhjMi00NDZjLTgwZTMtYzIxNWI2NWY4NjZlXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_SX1777_CR0,0,1777,755_AL_.jpg");
+    grid-row: span 1;
+    grid-column: span 2;
+}         

@@ -8,10 +8,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<!-- MENU -->
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">Início</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#trailer">Trailer</a></li>
+            <li><a href="#critica">Crítica</a></li>
+            <li><a href="#estrelas">Estrelas</a></li>
+            <li><a href="#galeria">Galeria</a></li>
+        </ul>
+    </nav>
 
     <!-- INICIO -->
 
-    <main>
+    <main id="inicio">
         <div>
             <h1>Velozes e Furiosos</h1>
             <h2>Desafio em Tóquio</h2>
@@ -62,9 +74,27 @@
 
     <!-- ESTRELAS -->
 
+    <section id="estrelas">
+            <h3>Estrelas</h3>
+
+            <div id="container-estrelas">
+                <a id="ator1" href="./src/html/ator1.html" target="_self">
+                    <p>Lucas Black</p>
+                </a>
+                <a id="ator2" href="./src/html/ator2.html" target="_self">
+                    <p>Brian Tee</p>
+                </a>
+                <a id="ator3" href="./src/html/ator3.html" target="_self">
+                    <p>Sung Kang</p>
+                </a>
+            </div>
+        </section>
     <!-- GALERIA -->
 
     <section id="galeria">
+
+        <h3>Galeria</h3>
+
         <div id="container-galeria">
             <a href="https://m.media-amazon.com/images/M/MV5BMjEzOTEzMTQ0Nl5BMl5BanBnXkFtZTgwOTgzMDAxMjI@._V1_.jpg" class="item-galeria" id="item1"></a>
             <a href="https://m.media-amazon.com/images/M/MV5BMTQ3Nzg4NDgyOF5BMl5BanBnXkFtZTYwODk4NTU3._V1_.jpg" class="item-galeria" id="item2"></a>
@@ -81,5 +111,10 @@
     </section>
 
     <!-- FOOTER -->
+
+    <footer>
+        <p>Site construído para propósito de estudo de desenvolvimento Web.</p>
+        <p>Todos direitos do filme pertencem a <strong>Universal Pictures</strong>.</p>
+    </footer>
 </body>
 </html>
